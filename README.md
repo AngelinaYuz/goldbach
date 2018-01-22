@@ -12,7 +12,7 @@ My goal is for this program to be able to calculate all of the pairs of primes f
 
 Wikipedia has a chart that I want to replicate:
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/7/7c/Goldbach-1000000.png =400x) 
+<img align="left" width="400" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Goldbach-1000000.png">
 
 What I get is pretty close:
 
