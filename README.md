@@ -11,7 +11,8 @@ This program finds all pairs of primes that make up even numbers more than two a
 My goal is for this program to be able to calculate all of the pairs of primes for each even number up to a million, as right now the program is too slow to be able to do so. 
 
 Wikipedia has a chart that I want to replicate:
-![](https://upload.wikimedia.org/wikipedia/commons/7/7c/Goldbach-1000000.png =400x) 
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/7/7c/Goldbach-1000000.png =400x) 
 
 What I get is pretty close:
 
