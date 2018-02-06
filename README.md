@@ -20,6 +20,8 @@ What I get is pretty close:
 
 <img align="left" width="400" src="https://raw.githubusercontent.com/AngelinaYuz/goldbach/master/goldbach-image.png">
 
+<p style="clear: both;">
+
 ### Development Process (Still in Progress)
 
 I decided to use Jupyter notebook as it's easy to write code and do graphs. 
