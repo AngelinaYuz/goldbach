@@ -14,12 +14,14 @@ Wikipedia has a chart that I want to replicate:
 
 <img align="left" width="400" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Goldbach-1000000.png">   
 
+<br />
 <p style="clear: both;">
 
 What I get is pretty close:
 
 <img align="left" width="400" src="https://raw.githubusercontent.com/AngelinaYuz/goldbach/master/goldbach-image.png">
 
+<br />
 <p style="clear: both;">
 
 ### Development Process (Still in Progress)
