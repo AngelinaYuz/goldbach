@@ -24,7 +24,7 @@ What I get is pretty close:
 <br />
 <p style="clear: both;">
 
-### Development Process (Still in Progress)
+### Development Process
 
 I decided to use Jupyter notebook as it's easy to write code and do graphs. 
 	
@@ -34,6 +34,4 @@ Then, in order to make the graph, some minor adjustments were made to the progra
 After that, the program was too slow and wasn’t able to reach a million, so I started optimizing the program, which started with turning most of the main program into a function, adding in a part that times how long the program takes to calculate, and finally, makes a time graph.
 
 Now, I am in the process of optimizing the main program. 
-
-**Stay tuned and star my project if you like it!**
 
